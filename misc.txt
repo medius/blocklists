@@ -65,3 +65,4 @@
 0.0.0.0 aus5.mozilla.org
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 news.google.com
+0.0.0.0 news.ycombinator.com
